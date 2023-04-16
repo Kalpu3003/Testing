@@ -1,8 +1,2 @@
-1.Pom is used to Organizing the WebElements
-.Maintaining and Managing the objects on different files
-identification on one file operation on other file
-if any change in locator or any we have to change easily by using POM
-
-by using page factory we can initialize the variables
-code;this.driver=driver;
-PageFactory.initElements(driver,this);
+1.hi how are you
+good morning
